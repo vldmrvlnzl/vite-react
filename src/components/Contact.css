@@ -1,0 +1,57 @@
+.contact-section {
+    text-align: center;
+    padding: 60px 20px;
+    background-color: #f9f9f9;
+}
+
+.contact-section h2 {
+    font-size: 2rem;
+    color: #232946;
+    margin-bottom: 20px;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+.social-icons a {
+    color: #232946;
+    transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+    color: #0077ff;
+}
+
+.subscribe-form {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.subscribe-form input {
+    padding: 10px;
+    font-size: 16px;
+    width: 250px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.subscribe-form button {
+    padding: 10px 20px;
+    background-color: #232946;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.subscribe-form button:hover {
+    background-color: #1a1e2c;
+}
