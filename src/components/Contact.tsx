@@ -7,16 +7,16 @@ const Contact = () => {
                 <h2>Contact Me</h2>
 
                 <div className="social-icons">
-                    <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.facebook.com/vladimir.valenzuela.566321/" target="_blank" rel="noopener noreferrer">
                         <i className="fab fa-facebook"></i>
                     </a>
-                    <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.instagram.com/_daaalv/" target="_blank" rel="noopener noreferrer">
                         <i className="fab fa-instagram"></i>
                     </a>
-                    <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+                    <a href="https://github.com/vldmrvlnzl" target="_blank" rel="noopener noreferrer">
                         <i className="fab fa-github"></i>
                     </a>
-                    <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.linkedin.com/in/valenzuela-vladimir-62785b27a/" target="_blank" rel="noopener noreferrer">
                         <i className="fab fa-linkedin"></i>
                     </a>
                 </div>
